@@ -1,0 +1,1 @@
+Minimium repreduce demo for [KTIJ-29743/Spring-Rename-quoted-method-breaks-annotation-literal-refering-to-it](https://youtrack.jetbrains.com/issue/KTIJ-29743/Spring-Rename-quoted-method-breaks-annotation-literal-refering-to-it)
